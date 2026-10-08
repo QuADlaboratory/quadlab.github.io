@@ -8,7 +8,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build Settings
 markdown: kramdown
 permalink: /:title/
-theme: jekyll-theme-renva
+theme: jekyll-remote-theme
+remote_theme:Artem Sheludko/repo
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
