@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-description: As an Artist, Designer, and Thinker, I find inspiration in the everyday moments and the extraordinary experiences that shape our world. My journey began with a passion for visual storytelling, which led me to explore various mediums and techniques.
+description: I am QuAD
 permalink: /about/
 image: '/images/01.jpg'
 image_caption: 'Photo by [César Rincón](https://unsplash.com/photos/grayscale-photo-of-man-XHVpWcr5grQ) on [Unsplash](https://unsplash.com/)'
