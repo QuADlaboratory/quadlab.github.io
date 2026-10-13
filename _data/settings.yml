@@ -56,12 +56,12 @@ testimonials:
       designation: "CEO of Creative Innovations"
       content : "Our Eye Tracking Suite is used for our group-based studies, where we have participants complete collaborative or competitive scenarios. Here, we answer questions like where our attention is directed when we meet someone and how do we use attention to convey information to others."
 
-    - name: "David Wilson"
-      image: "/images/client-2.jpg"
+    - name: "EEG Suite"
+      image: "/images/2.jpg"
       designation: "Senior Designer at Elegance Studios"
       content : "The elegant and modern design aesthetic was exactly what we needed. The work was both inspiring and flawlessly executed."
 
-    - name: "Sarah Davis"
+    - name: "Behavioural Suite "
       image: "/images/client-3.jpg"
       designation: "Director of FutureTech Labs"
       content : "The blend of technology and art was masterful. Every piece showcased a deep understanding of both disciplines."
