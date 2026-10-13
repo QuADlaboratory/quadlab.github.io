@@ -38,10 +38,10 @@ author:
 # Hero Settings
 hero:
   enable: true
-  hero_role: Artist ∙ Designer ∙ Thinker
-  hero_title: Hi! I’m James <img src="/images/01-1.jpg" alt="James Brown's Picture" loading="lazy"> <br> I Create Things That Work for Your Business
-  hero_description:
-  hero_button_text: Let’s make dream together
+  hero_role: Queen's University
+  hero_title: Queen's Attentional Dynamic's Lab
+  hero_description: Studying socio-cognitive neuroscience of attention
+  hero_button_text: Contact Us
   hero_button_link: "/contact/"
 
 
