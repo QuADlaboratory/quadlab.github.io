@@ -72,8 +72,8 @@ testimonials:
 # Projects Section Settings
 projects:
   enable: true
-  projects_title: Our Lab Space
-  projects_description: We have a variety of research spaces in our lab
+  projects_title: Our Research
+  projects_description: Our lab studies the dynamics of attention, which captures how attentional processes ebb & flow over time, resulting in differences in performance and separating the unique factors that make your attentional experience different from others. To explore this, we use behavioural experiments, collaborative activities, eye tracking, EEG, & fMRI to uncover attentional dynamics within social situations, across internal thoughts, & in digital environments.
 
 
 
