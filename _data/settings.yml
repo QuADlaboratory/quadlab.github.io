@@ -48,14 +48,13 @@ hero:
 # Testimonials Section Settings
 testimonials:
   enable: true
-  testimonials_title: What People Say?
-  testimonials_description: Hear from those who have experienced the transformative power of my artistry and design. These testimonials showcase the success stories born from our collaborative partnerships.
-  testimonials_info: Loved by 50+ customers
+  testimonials_title: Our Research Space
+  testimonials_description: Explore our research facilities and ongoing projects
   testimonial_items:
-    - name: "John Smith"
-      image: "/images/client-1.jpg"
+    - name: "Eye Tracking Suite"
+      image: "/images/1.jpg"
       designation: "CEO of Creative Innovations"
-      content : "Collaborating was a seamless experience. The creativity and execution brought our project to life in ways we couldn't have imagined."
+      content : "Our Eye Tracking Suite is used for our group-based studies, where we have participants complete collaborative or competitive scenarios. Here, we answer questions like where our attention is directed when we meet someone and how do we use attention to convey information to others."
 
     - name: "David Wilson"
       image: "/images/client-2.jpg"
