@@ -38,20 +38,11 @@ author:
 # Hero Settings
 hero:
   enable: true
-  hero_role: Queen's University
+  hero_role: Queen's University's
   hero_title: Queen's Attentional Dynamic's Lab
   hero_description: Studying socio-cognitive neuroscience of attention
   hero_button_text: Contact Us
   hero_button_link: "/contact/"
-
-
-#-------------------------------
-# Projects Section Settings
-projects:
-  enable: true
-  projects_title: Selected Works
-  projects_description: This series celebrates cultural diversity and heritage through intricate, detailed designs. Drawing inspiration from various cultures and traditions, I create artworks that tell stories of identity and community. The pieces are rich in symbolism and patterns, offering a deep, visual narrative. By honoring cultural histories, the series fosters a sense of connection and appreciation for global diversity.
-
 
 #-------------------------------
 # Testimonials Section Settings
@@ -75,6 +66,16 @@ testimonials:
       image: "/images/client-3.jpg"
       designation: "Director of FutureTech Labs"
       content : "The blend of technology and art was masterful. Every piece showcased a deep understanding of both disciplines."
+
+
+
+#-------------------------------
+# Projects Section Settings
+projects:
+  enable: true
+  projects_title: Our Lab Space
+  projects_description: We have a variety of research spaces in our lab
+
 
 
 #-------------------------------
