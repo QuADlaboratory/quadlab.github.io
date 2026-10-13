@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About Our Lab
-description: I am QuAD
+description: Welcome to the QuAD Lab!
 permalink: /about/
 image: '/images/01.jpg'
 image_caption: 'Photo by [César Rincón](https://unsplash.com/photos/grayscale-photo-of-man-XHVpWcr5grQ) on [Unsplash](https://unsplash.com/)'
 ---
 
-When I'm not immersed in my creative projects, I love to explore the world and engage in activities that fuel my imagination and rejuvenate my spirit. Traveling is one of my greatest passions; it allows me to experience diverse cultures, meet fascinating people, and discover new perspectives. Whether wandering through the vibrant streets of a bustling city or finding tranquility in the serene landscapes of nature, I find inspiration in every corner of the globe. Each journey not only enriches my soul but also informs my work, adding depth and breadth to my artistic endeavors.
+We are a lab that researches attentional processes.
 
 ## Through my work
 
