@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About Our Lab
 description: I am QuAD
 permalink: /about/
 image: '/images/01.jpg'
