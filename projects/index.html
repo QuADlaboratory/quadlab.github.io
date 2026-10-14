@@ -21,12 +21,18 @@ image: '/images/01.jpg'
     {% for member in site.data.people %}
     <article class="project col col-3 col-d-6 col-t-12">
       <div class="project-content">
-        <a href="{{ member.url }}" class="project__image">
-          <img class="lazy" data-src="{{ member.image }}" alt="{{ member.name }}">
-        </a>
+        {% if member.url %}
+          <a href="{{ member.url }}" class="project__image">
+            <img class="lazy" data-src="{{ member.image }}" alt="{{ member.name }}">
+          </a>
+        {% else %}
+          <div class="project__image">
+            <img class="lazy" data-src="{{ member.image }}" alt="{{ member.name }}">
+          </div>
+        {% endif %}
         <div class="project__info">
-          {% if member.label %}
-            <div class="project__label">{{ member.label }}</div>
+          {% if member.position %}
+            <div class="project__label">{{ member.position }}</div>
           {% endif %}
           <h2 class="project__title">
             <a href="{{ member.url }}">{{ member.name }}</a>
