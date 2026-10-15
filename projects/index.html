@@ -17,23 +17,25 @@ description: Meet the talented individuals who make our research possible.
 
 <div class="container">
   <div class="members-grid row">
-    {% for member in site.data.members %}
-    <article class="member card col col-3 col-d-6 col-t-12">
-      <div class="member-card__image">
+    {% if site.data.members and site.data.members.size > 0 %}
+      {% for member in site.data.members %}
+        <article class="member card col col-3 col-d-6 col-t-12">
+          <div class="member-card__image">
             <img class="lazy" data-src="{{ member.image | relative_url }}" alt="{{ member.name }}">
-      </div>
-        <div class="member-card__info"> 
-          {% if member.position %}
-            <div class="member-card__position">{{ member.position }}</div>
-          {% endif %}
-          <h2 class="member-card__name">{{member.name}}</h2>
-          {% if member.pronouns %}
-            <div class="member-card__pronouns">{{ member.pronouns }}</div>
-          {% endif %}
-        </div>
-      </div>
-    </article>
-    {% endfor %}
+          </div>
+          <div class="member-card__info">
+            {% if member.position %}
+              <div class="member-card__position">{{ member.position }}</div>
+            {% endif %}
+            <h2 class="member-card__name">{{ member.name }}</h2>
+            {% if member.pronouns %}
+              <div class="member-card__pronouns">{{ member.pronouns }}</div>
+            {% endif %}
+          </div>
+        </article>
+      {% endfor %}
+    {% else %}
+      <p>No members yet.</p>
+    {% endif %}
   </div>
 </div>
-
