@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Celebrating cultural diversity and its impact on artistic creativity
-description: Art is a reflection of culture, and cultural diversity enriches the creative process. This article delves into the importance of cultural influences in art and how they contribute to a vibrant and inclusive.
+title: Attention in hindsight: Using stimulated recall to capture dynamic fluctuations in attentional engagement
+description: Can you remember when your attention drifted away during an activity, such as a Zoom call or lecture video? Our latest article explores this phenomenon using a new method to explore previous engagement, revealing surprisingly detailed memories of prior attention states.
 date: 2024-07-11 15:01:35 +0300
 image: '/images/03.jpg'
 image_caption: 'Photo by [Balázs Kétyi](https://unsplash.com/photos/color-code-book-LPWl2pEVGKc) on [Unsplash](https://unsplash.com/)'
