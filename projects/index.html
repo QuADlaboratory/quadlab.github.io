@@ -20,7 +20,7 @@ description: Meet the talented individuals who make our research possible.
     {% for member in site.data.members %}
     <article class="member card col col-3 col-d-6 col-t-12">
       <div class="member-card__image">
-            <img class="lazy" data-src="{{ member.image }}" alt="{{ member.name }}">
+            <img class="lazy" data-src="{{ member.image | relative_url }}" alt="{{ member.name }}">
       </div>
         <div class="member-card__info"> 
           {% if member.position %}
@@ -33,3 +33,7 @@ description: Meet the talented individuals who make our research possible.
         </div>
       </div>
     </article>
+    {% endfor %}
+  </div>
+</div>
+
