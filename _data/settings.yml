@@ -52,19 +52,18 @@ testimonials:
   testimonials_description: Explore our research facilities and ongoing projects
   testimonial_items:
     - name: "Eye Tracking Suite"
-      image: "/images/1.jpg"
+      image: "/images/6.jpg"
       designation: "CEO of Creative Innovations"
       content : "Our Eye Tracking Suite is used for our group-based studies, where we have participants complete collaborative or competitive scenarios. Here, we answer questions like where our attention is directed when we meet someone and how do we use attention to convey information to others."
 
     - name: "EEG Suite"
-      image: "/images/2.jpg"
+      image: "/images/5.jpg"
       designation: "Senior Designer at Elegance Studios"
-      content : "The elegant and modern design aesthetic was exactly what we needed. The work was both inspiring and flawlessly executed."
+      content : "Our EEG Suite is used for our neurophysiological-based studies, where we record participants’ brain activity when responding to images or watching a video. Here, we assess how attention is reflected in the brain and what stable and variable factors change how easily we process information in the world around us."
 
     - name: "Behavioural Suite "
-      image: "/images/client-3.jpg"
-      designation: "Director of FutureTech Labs"
-      content : "The blend of technology and art was masterful. Every piece showcased a deep understanding of both disciplines."
+      image: "/images/7.jpg"
+      content : "Our Behavioural Suite is used for our computer-based studies, where we have participants watch a video or respond to online questionnaires. Here, we explore whether we can control or remember our attention and what predicts when we decide to split our attention."
 
 
 
