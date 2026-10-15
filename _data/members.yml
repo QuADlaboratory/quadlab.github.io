@@ -1,104 +1,104 @@
 - name: Effie Pereira
   pronouns: she/her
   position: Primary Investigator
-  image: 'assets/images/effie-pereira.png'
+  image: '/assets/images/effie-pereira.png'
 
 - name: Dr. Allison Drody
   pronouns: she/her
   position: Postdoctoral Fellow
-  image: 'assets/images/allison-drody.png'
+  image: '/assets/images/allison-drody.png'
 
 - name: Emily Allan
   pronouns: she/her
   position: Lab Coordinator 
-  image: 'assets/images/emily-allan.png'
+  image: '/assets/images/emily-allan.png'
 
 - name: Aahana Uppal
   pronouns: she/her
   position: Graduate Student
-  image: 'assets/images/aahana-uppal.png' 
+  image: '/assets/images/aahana-uppal.png' 
 
 - name: Mridula Srikanth
   pronouns: she/her
   position: Graduate Student
-  image: 'assets/images/mridula-srikanth.png' 
+  image: '/assets/images/mridula-srikanth.png' 
 
 - name: Evren Brown
   pronouns: they/them
-  position: Graduate Student
-  image: 'assets/images/evren-brown.png'
+  position: Programmer
+  image: '/assets/images/evren-brown.png'
 
 - name: Ella Gronlund
   pronouns: she/her
   position: Honours Thesis Student
-  image: 'assets/images/ella-gronlund.png'
+  image: '/assets/images/ella-gronlund.png'
 
 - name: Naomi Heyman
   pronouns: she/her
   position: Honours Thesis Student
-  image: 'assets/images/naomi-heyman.png' 
+  image: '/assets/images/naomi-heyman.png' 
 
 - name: Mia Popelas
   pronouns: she/her
   position: Honours Thesis Student
-  image: 'assets/images/mia-popelas.png'  
+  image: '/assets/images/mia-popelas.png'  
 
 - name: Ashlin Hutcheson
   pronouns: she/her
   position: Directed Lab Student
-  image: 'assets/images/ashlin-hutcheson.png'
+  image: '/assets/images/ashlin-hutcheson.png'
 
 - name: Ava Fallan
   pronouns: she/her
   position: Directed Lab Student
-  image: 'assets/images/ava-fallan.png'
+  image: '/assets/images/ava-fallan.png'
 
 - name: Dilara Sanli
   pronouns: she/her
   position: Directed Lab Student
-  image: 'assets/images/dilara-sanli.png'
+  image: '/assets/images/dilara-sanli.png'
 
 - name: April (Hatice) Dinger
   pronouns: she/her
   position: Volunteer Research Assistant
-  image: 'assets/images/april-dinger.png'
+  image: '/assets/images/april-dinger.png'
 
 - name: Emma Chalmers
   pronouns: she/her
   position: Volunteer Research Assistant
-  image: 'assets/images/emma-chalmers.png'
+  image: '/assets/images/emma-chalmers.png'
 
 - name: Jalyn Klein
   pronouns: she/her
   position: Volunteer Research Assistant
-  image: 'assets/images/jalyn-klein.png'
+  image: '/assets/images/jalyn-klein.png'
 
 - name: Jasmine Kaur
   pronouns: she/her
   position: Volunteer Research Assistant
-  image: 'assets/images/jasmine-kaur.png'
+  image: '/assets/images/jasmine-kaur.png'
 
 - name: Mya Gallant
   pronouns: she/her
   position: Volunteer Research Assistant
-  image: 'assets/images/mya-gallant.png'
+  image: '/assets/images/mya-gallant.png'
 
 - name: Mikayla Toplis
   pronouns: she/her
   position: Volunteer Research Assistant
-  image: 'assets/images/mikayla-toplis.png' 
+  image: '/assets/images/mikayla-toplis.png' 
 
 - name: Olivia Socol
   pronouns: she/her
   position: Volunteer Research Assistant
-  image: 'assets/images/olivia-socol.png'
+  image: '/assets/images/olivia-socol.png'
 
 - name: Sarah Sadek
   pronouns: she/her
   position: Volunteer Research Assistant
-  image: 'assets/images/sarah-sadek.png'
+  image: '/assets/images/sarah-sadek.png'
 
 - name: Vishakha Desai
   pronouns: she/her
   position: Volunteer Research Assistant
-  image: 'assets/images/vishakha-desai.png'
+  image: '/assets/images/vishakha-desai.png'
