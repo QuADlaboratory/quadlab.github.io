@@ -15,21 +15,21 @@ description: Meet the talented individuals who make our research possible.
   </div>
 </div>
 
-<div class="container projects-page animate">
-  <div class="row">
+<div class="container">
+  <div class="members-grid row">
     {% for member in site.data.members %}
     <article class="project col col-3 col-d-6 col-t-12">
-      <div class="project-content">
-         <div class="project__image">
+      <div class="member-card_info">
+         <div class="member-card_position">
             <img class="lazy" data-src="{{ member.image }}" alt="{{ member.name }}">
       </div>
-        <div class="project__info"> 
+        <div class="member-card__info"> 
           {% if member.position %}
-            <div class="project__label">{{ member.position }}</div>
+            <div class="member-card__position">{{ member.position }}</div>
           {% endif %}
-          <h2 class="project__title">{{member.name}}</h2>
+          <h2 class="member-card__name">{{member.name}}</h2>
           {% if member.pronouns %}
-            <div class="member__pronouns">{{ member.pronouns }}</div>
+            <div class="member-card__pronouns">{{ member.pronouns }}</div>
           {% endif %}
         </div>
       </div>
