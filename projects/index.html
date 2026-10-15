@@ -18,9 +18,8 @@ description: Meet the talented individuals who make our research possible.
 <div class="container">
   <div class="members-grid row">
     {% for member in site.data.members %}
-    <article class="project col col-3 col-d-6 col-t-12">
-      <div class="member-card_info">
-         <div class="member-card_position">
+    <article class="member card col col-3 col-d-6 col-t-12">
+      <div class="member-card__image">
             <img class="lazy" data-src="{{ member.image }}" alt="{{ member.name }}">
       </div>
         <div class="member-card__info"> 
