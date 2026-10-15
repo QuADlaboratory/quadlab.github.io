@@ -80,8 +80,8 @@ projects:
 # Blog Section Settings
 blog:
   enable: true
-  blog_title: From My Blog
-  blog_description: Dive into a world of creativity and inspiration through my blog. Here, I share insights into my artistic process, design trends, and the stories behind my latest projects.
+  blog_title: Recent Publications
+  blog_description: Our lab has published several papers in the field of attention and cognitive neuroscience. Here are some of our recent publications that highlight our research findings and contributions to the scientific community.
 
 
 #-------------------------------
@@ -100,10 +100,10 @@ faq:
   faq_title: Need Some Answers?
   faq_description:
   faq_items:
-    - title: What is your creative process?
-      description: My creative process is both structured and flexible, allowing for creativity and precision. It begins with an initial consultation where I gather information about your vision and goals. I then move to the brainstorming and conceptualization phase, where ideas are sketched out and refined. After your approval, I proceed with the creation phase, followed by final adjustments based on your feedback. This collaborative approach ensures that the final product is exactly what you envisioned.
-    - title: How do you handle custom design requests?
-      description: Handling custom design requests involves a personalized approach where I work closely with clients to understand their unique needs and preferences. The process begins with an in-depth consultation to discuss ideas, inspirations, and project goals. Based on this discussion, I create initial concepts and share them for feedback. Throughout the project, I maintain open communication, providing updates and making necessary adjustments to ensure the final outcome exceeds expectations.
+    - title: How do I get involved as a researcher?
+      description: To get involved as a researcher, you can start by reaching out to our lab through our contact page or email. We welcome inquiries from students, postdocs, and professionals interested in cognitive neuroscience and attention research. Once you express your interest, we will provide information on current projects, available positions, and the application process. We encourage potential researchers to review our publications and familiarize themselves with our work to better understand how they can contribute to our ongoing studies.
+    - title: How do I participate in your research?
+      description: Thank you for your interest in participating in our research. Please reach out to us through our contact page or email to learn more about available opportunities and the sign-up process.
     - title: How do you stay inspired and current with design trends?
       description: Staying inspired and up-to-date with design trends requires continuous learning and exploration. I regularly attend industry conferences, workshops, and exhibitions to gain fresh insights and perspectives. Additionally, I follow leading design blogs, publications, and social media channels to stay informed about the latest trends and innovations. Personal projects and experimentation also play a crucial role in keeping my creative skills sharp and evolving.
     - title: What is your typical turnaround time for a project?
