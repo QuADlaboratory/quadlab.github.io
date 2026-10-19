@@ -165,3 +165,47 @@
 .projects-page {
   margin-bottom: -32px;
 }
+
+.members-grid {
+  margin-top: 40px;
+}
+
+.member {
+  margin-bottom: 32px;
+}
+
+.member-card__image {
+  margin-bottom: 18px;
+}
+
+.member-card__image img {
+  width: 100%;
+  aspect-ratio: 1 / 1.2;
+  object-fit: cover;
+  border-radius: 22px;
+  display: block;
+}
+
+.member-card__info {
+  text-align: center;
+}
+
+.member-card__position {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: var(--gray);
+  letter-spacing: 0.02em;
+}
+
+.member-card__name {
+  margin: 8px 0 6px;
+  font-size: 1.35rem;
+  line-height: 1.25;
+  color: var(--dark);
+}
+
+.member-card__pronouns {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--gray);
+}
