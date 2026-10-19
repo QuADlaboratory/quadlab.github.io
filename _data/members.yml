@@ -23,10 +23,10 @@
   position: Graduate Student
   image: '/images/mridula-srikanth.png' 
 
-- name: Evren Brown
+- name: Evren Bradley
   pronouns: they/them
   position: Programmer
-  image: '/images/evren-brown.png'
+  image: '/images/evren-bradley.png'
 
 - name: Ella Gronlund
   pronouns: she/her
@@ -48,10 +48,10 @@
   position: Directed Lab Student
   image: '/images/ashlin-hutcheson.png'
 
-- name: Ava Fallan
+- name: Ava Fallah
   pronouns: she/her
   position: Directed Lab Student
-  image: '/images/ava-fallan.png'
+  image: '/images/ava-fallah.png'
 
 - name: Dilara Sanli
   pronouns: she/her
