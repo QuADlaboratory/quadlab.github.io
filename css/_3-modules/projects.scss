@@ -179,15 +179,23 @@
 }
 
 .member-card__image img {
+  display: block;
   width: 100%;
   aspect-ratio: 1 / 1.2;
   object-fit: cover;
   border-radius: 22px;
-  display: block;
 }
 
 .member-card__info {
+  display: block;
   text-align: center;
+}
+
+.member-card__position,
+.member-card__pronouns,
+.member-card__name {
+  display: block;
+  width: 100%;
 }
 
 .member-card__position {
