@@ -166,54 +166,30 @@
   margin-bottom: -32px;
 }
 
-.members-grid {
-  margin-top: 40px;
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 24px;
 }
 
-.member {
-  margin-bottom: 32px;
-}
-
-.member-card__image {
-  margin-bottom: 18px;
-}
-
-.member-card__image img {
-  display: block;
-  width: 100%;
-  aspect-ratio: 1 / 1.2;
-  object-fit: cover;
-  border-radius: 22px;
-}
-
-.member-card__info {
-  display: block;
+.member-card {
   text-align: center;
 }
 
-.member-card__position,
-.member-card__pronouns,
-.member-card__name {
-  display: block;
+.member-card img {
   width: 100%;
+  max-width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 12px;
 }
 
-.member-card__position {
-  font-size: 0.88rem;
-  line-height: 1.5;
-  color: var(--gray);
-  letter-spacing: 0.02em;
+.member-info {
+  margin-top: 10px;
 }
 
-.member-card__name {
-  margin: 8px 0 6px;
-  font-size: 1.35rem;
-  line-height: 1.25;
-  color: var(--dark);
-}
-
-.member-card__pronouns {
-  font-size: 0.85rem;
-  line-height: 1.5;
-  color: var(--gray);
+.member-pronouns,
+.member-position {
+  color: #666;
+  font-size: 0.9rem;
 }
