@@ -31,6 +31,9 @@ description: Meet the talented individuals who make our research possible.
             {% if member.pronouns %}
               <div class="member-card__pronouns">{{ member.pronouns }}</div>
             {% endif %}
+            {if member.bio %}
+              <div class="member-card__bio">{{ member.bio }}</div>
+            {% endif %}
           </div>
         </article>
       {% endfor %}

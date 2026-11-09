@@ -53,12 +53,10 @@ testimonials:
   testimonial_items:
     - name: "Eye Tracking Suite"
       image: "/images/6.jpg"
-      designation: "CEO of Creative Innovations"
       content : "Our Eye Tracking Suite is used for our group-based studies, where we have participants complete collaborative or competitive scenarios. Here, we answer questions like where our attention is directed when we meet someone and how do we use attention to convey information to others."
 
     - name: "EEG Suite"
       image: "/images/5.jpg"
-      designation: "Senior Designer at Elegance Studios"
       content : "Our EEG Suite is used for our neurophysiological-based studies, where we record participants’ brain activity when responding to images or watching a video. Here, we assess how attention is reflected in the brain and what stable and variable factors change how easily we process information in the world around us."
 
     - name: "Behavioural Suite "
