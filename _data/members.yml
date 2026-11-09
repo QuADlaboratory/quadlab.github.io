@@ -2,103 +2,147 @@
   pronouns: she/her
   position: Primary Investigator
   image: '/images/effie-pereira.png'
+  bio: Effie is an Assistant Professor in the Department of Psychology and Director of the QuAD Lab. Before this, she completed her Banting Postdoctoral Fellowship at the University of Waterloo & her PhD at McGill University.
 
 - name: Dr. Allison Drody
   pronouns: she/her
   position: Postdoctoral Fellow
   image: '/images/allison-drody.png'
+  bio: Allison completed her PhD in Psychology (Cognitive Neuroscience) at the University of Waterloo. She is interested in how and why the focus of our attention changes over time, particularly in media-rich environments where opportunities for distraction are abundant.
+
 
 - name: Emily Allan
   pronouns: she/her
   position: Lab Coordinator 
   image: '/images/emily-allan.png'
+  bio: Emily is a fifth-year Psychology major with a minor in English Literature at Queen's University. She is excited to build her skills in cognitive research and develop hands-on lab experience. She aspires to have a career in cognitive research. 
+
 
 - name: Aahana Uppal
   pronouns: she/her
   position: Graduate Student
   image: '/images/aahana-uppal.png' 
+  bio: Aahana is a Master’s student in the Cognitive Neuroscience program at Queen’s University. She completed her Bachelor of Cognitive Science (Honours) degree at Carleton University in 2025.  She is excited to learn more about individual differences in attention and to incorporate eye-tracking and neuroimaging measures in her research.
+
 
 - name: Mridula Srikanth
   pronouns: she/her
   position: Graduate Student
   image: '/images/mridula-srikanth.png' 
+  bio: Mridula is a Master’s student in the Cognitive Neuroscience program at Queen’s University. She completed her Bachelor of Arts (Honours) degree in Psychology at Queen’s University in 2025. She is excited to learn more about attention and social cognition and to explore new directions and broaden her research horizons.
+
 
 - name: Evren Bradley
   pronouns: they/them
   position: Programmer
   image: '/images/evren-bradley.png'
+  bio: Evren is a third-year Mechatronics Engineering student at Queen's University. They are excited to learn about dynamic attention develop a research platform for the QUAD lab!
+
 
 - name: Ella Gronlund
   pronouns: she/her
   position: Honours Thesis Student
   image: '/images/ella-gronlund.png'
+  bio: Ella is a fourth-year Life Sciences Specialization major at Queen’s University. She hopes to pursue research in Neuroscience post-undergrad and is excited to strengthen her research skills and learn more about attentional dynamics this year.
+
+
+- name: Mia Popelas
+  pronouns: she/her
+  position: Honours Thesis Student
+  image: '/images/mia-popelas.png' 
+  bio: Mia is a fourth-year Psychology student at Queen’s University. She is excited to get hands-on experience in the lab and build the skills needed to explore how attention works in creative minds and social interactions.
+
 
 - name: Naomi Heyman
   pronouns: she/her
   position: Honours Thesis Student
   image: '/images/naomi-heyman.png' 
+  bio: Naomi is a fourth-year Psychology major at Queen's University with an interest in cognitive neuroscience. She is excited to learn more about attentional processes and social judgements through her thesis work in the lab. She aspires to have a career where she helps other through therapy.
 
-- name: Mia Popelas
-  pronouns: she/her
-  position: Honours Thesis Student
-  image: '/images/mia-popelas.png'  
 
 - name: Ashlin Hutcheson
   pronouns: she/her
   position: Directed Lab Student
   image: '/images/ashlin-hutcheson.png'
+  bio: Ashlin is a fourth-year Concurrent Education student at Queen's University. She is completing a BioPsychology specialization and a minor in French Studies. She is looking forward to gaining valuable research experience in the QuAD lab and learning more about interpersonal physiological synchrony within dyadic interactions. 
+
+
 
 - name: Ava Fallah
   pronouns: she/her
   position: Directed Lab Student
   image: '/images/ava-fallah.png'
+  bio: Ava is a fourth-year undergraduate student at Queen’s University specializing in Psychology, with interests in attention in digital environments. She is excited to support ongoing research in the QuAD Lab and to further develop her research skills.  
+
+
 
 - name: Dilara Sanli
   pronouns: she/her
   position: Directed Lab Student
   image: '/images/dilara-sanli.png'
+  bio: Dilara is a third-year Psychology Specialization student at Queen’s University. She is excited to expand her skills in research.
+
 
 - name: April (Hatice) Dinger
   pronouns: she/her
   position: Volunteer Research Assistant
   image: '/images/april-dinger.png'
+  bio: Hatice (April) is a third-year Psychology Specialization student at Queen's University. She is excited to strengthen her research skills and explore how attention influences human behavior, thinking, and learning through her work in the QuAD Lab.
+
 
 - name: Emma Chalmers
   pronouns: she/her
   position: Volunteer Research Assistant
   image: '/images/emma-chalmers.png'
+  bio: Emma is a second-year in the Biology and Psychology Specialization, joining as a volunteer research assistant. She is excited to learn more about the various aspects of cognitive psychology and attention. She aspires to study medicine and psychology. 
+
 
 - name: Jalyn Klein
   pronouns: she/her
   position: Volunteer Research Assistant
   image: '/images/jalyn-klein.png'
+  bio: Jalyn is a fifth-year Psychology major at Queen’s University, volunteering in the QuAD Lab as a research assistant. She is excited to learn more about attention in digital environments and strengthen her research skills. 
+
 
 - name: Jasmine Kaur
   pronouns: she/her
   position: Volunteer Research Assistant
   image: '/images/jasmine-kaur.png'
+  bio: Jasmine is a fourth-year Psychology major at Queen's University. She is excited to gain hands-on research experience and is especially interested in cognitive and social psychology, particularly how attention shapes our everyday interactions and experiences. 
+
 
 - name: Mya Gallant
   pronouns: she/her
   position: Volunteer Research Assistant
   image: '/images/mya-gallant.png'
+  bio: Mya is a third-year Health Sciences student at Queen's University. She is excited to join the QuAD lab this semester and help with ongoing projects. She is looking forward to learning more about attentional dynamics in social interactions.
+
 
 - name: Mikayla Toplis
   pronouns: she/her
   position: Volunteer Research Assistant
   image: '/images/mikayla-toplis.png' 
+  bio: Mikayla  is a fifth-year Biology and Psychology student at Queen's University, volunteering in the lab as a research assistant. She is excited to learn more about the attentional dynamics that shape our experiences and to strengthen her research skills. 
+
 
 - name: Olivia Socol
   pronouns: she/her
   position: Volunteer Research Assistant
-  image: '/images/olivia-socol.png'
+  image: '/images/olivia-socol.png'\
+  bio: Olivia is a second-year Health Sciences student at Queen’s University. She looks forward to developing her research skills and learning more about how attentional processes shape human behaviour.
+
 
 - name: Sarah Sadek
   pronouns: she/her
   position: Volunteer Research Assistant
   image: '/images/sarah-sadek.png'
+  bio: Sarah is a fourth-year Psychology specialization major at Queens's University. She is passionate about learning more about human cognition and how to operate new research technologies. 
+
 
 - name: Vishakha Desai
   pronouns: she/her
   position: Volunteer Research Assistant
   image: '/images/vishakha-desai.png'
+  bio: Vishakha is a fourth-year Physics major at Queen’s University. She is excited about interdisciplinary work and looks forward to learning more about how attentional processes unfold over time in various environments.
+
+
