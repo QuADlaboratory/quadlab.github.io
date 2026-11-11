@@ -21,7 +21,7 @@ description: Meet the talented individuals who make our research possible.
       {% for member in site.data.members %}
         <article class="member card col col-3 col-d-6 col-t-12">
           <div class="member-card__image">
-            <img class="lazy" data-src="{{ member.image | relative_url }}" alt="{{ member.name }}, {{ member.position }}, {{ member.pronouns }}, {{ member.bio }}" decoding="async" loading="lazy">
+            <img class="lazy" data-src="{{ member.image }}" alt="{{ member.name }}, {{ member.position }}, {{ member.pronouns }}, {{ member.bio }}" decoding="async" loading="lazy">
           </div>
           <div class="member-card__info">
             {% if member.position %}
