@@ -78,7 +78,7 @@
   }
 
   @media (max-width: $desktop) {
-    flex-direction: column;
+    flex-direction: grid;
     margin-top: 60px;
     margin-bottom: 40px;
 
@@ -190,11 +190,4 @@
       border-radius: 16px;
     }
   }
-}
-
-.member-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 32px;
-  margin: 40px 0 60px;
 }
