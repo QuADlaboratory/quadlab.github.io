@@ -15,13 +15,15 @@ description: Meet the talented individuals who make our research possible.
   </div>
 </div>
 
-<div class="container">
+<div class="container projects-page animate">
   <div class="members-grid row">
     {% if site.data.members and site.data.members.size > 0 %}
       {% for member in site.data.members %}
         <article class="member-card col col-3 col-d-6 col-t-12">
           <div class="member-card__image">
-            <img class="lazy" data-src="{{ member.image|relative_url }}" alt="{{ member.name }}, {{ member.position }}, {{ member.pronouns }}, {{ member.bio }}" decoding="async" loading="lazy">
+            <a href="{{ member.url|relative_url }}" aria-label="View {{ member.name }}'s profile">
+              <img class="lazy" data-src="{{ member.image|relative_url }}" alt="{{ member.name }}, {{ member.position }}, {{ member.pronouns }}, {{ member.bio }}" decoding="async" loading="lazy">
+            </a>
           </div>
           <div class="member-card__info">
             {% if member.position %}
